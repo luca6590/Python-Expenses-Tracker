@@ -1,4 +1,4 @@
-Welcome to my expense tracker project! I want to say that this is my first python project, and many more features will come! This is a very early stage project, but in the future it will become bigger and with a lot other features. Also I plan to make a GUI for it, as the terminal is very sad looking.
+Welcome to my expense tracker project! I want to say that this is my first python project, and its very early stage.
 
 Features:
 
